@@ -4,6 +4,7 @@ content marketing; ideating ideas for marketing and data science purposes; music
 - 🌱 I’m currently learning: paused on Python. Currently exploring SEO, PPC ASO
 - 💞️ I’m looking to collaborate on... anything!
 - 📫 How to reach me: pop me a message or send me an email
+- 👇 Look at my Escapades file to see the coding I have done
 
 <!---
 giturdirtypawsoff/giturdirtypawsoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
