@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @giturdirtypawsoff
-- 👀 I’m interested in: performance marketing; search optimisation (SEO, PPC, GA\GS); designing, optimising and analysing databases (Excel/PowerBI are my jam);
+- 👀 I’m interested in: data anaylsis; designing, optimising and analysing databases (Excel/PowerBI/Tableau are my jam);
 content marketing; ideating ideas for marketing and data science purposes; music; sports; coding; podcasts; languages; cyber security... and more!
-- 🌱 I’m currently learning: paused on Python. Currently exploring SEO, PPC ASO
+- 🌱 I’m currently learning: statistics
 - 💞️ I’m looking to collaborate on... anything!
 - 📫 How to reach me: pop me a message or send me an email
 - 👇 Look at my Escapades file to see the coding I have done
